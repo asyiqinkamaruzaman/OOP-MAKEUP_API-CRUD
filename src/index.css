@@ -1,0 +1,26 @@
+body {
+  background-image: url('https://wallpapers.com/images/hd/makeup-brush-powder-art-q4e4bg9wujkivnvk.jpg');
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif;
+  margin: auto;
+  max-width: 38rem;
+  padding: 2rem;
+}
+h1{
+  color: orange;
+}
+.mainWrapper{
+  margin: 25px;
+}
+
+.btnBack{
+  color: white;
+}
+
+p{
+  color: orange;
+}
+
+label{
+  color: white;
+}
